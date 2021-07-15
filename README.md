@@ -1,6 +1,4 @@
-# practice-http
-
-HTTP/HTTPS 학습을 위한 저장소
+# HTTP 학습용 저장소
 
 ## 개발 환경
 
